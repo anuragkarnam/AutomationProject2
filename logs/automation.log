@@ -1,0 +1,14 @@
+[INFO ] 2024-12-04 15:10:52,950 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 15:10:57,234 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values not matched with slider...**********
+[INFO ] 2024-12-04 15:10:57,235 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test failed**********
+[INFO ] 2024-12-04 15:21:42,864 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 15:21:56,362 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 15:21:56,485 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 15:21:59,775 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 15:21:59,890 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 15:22:05,219 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values matched with slider...**********
+[INFO ] 2024-12-04 15:22:05,220 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test passed********
+[INFO ] 2024-12-04 15:22:08,460 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********products are within range...**********
+[INFO ] 2024-12-04 15:22:08,460 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test passed...!*********

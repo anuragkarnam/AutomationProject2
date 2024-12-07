@@ -1,0 +1,481 @@
+[INFO ] 2024-12-01 19:07:21,152 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-01 19:10:41,889 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-01 19:14:43,424 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-01 19:20:53,020 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-01 19:21:08,518 TC001_at_AccountRegistrationTest.accountRegistration() - ******************************
+[INFO ] 2024-12-01 19:21:08,518 TC001_at_AccountRegistrationTest.accountRegistration() - class atTestCases.TC001_at_AccountRegistrationTest*****test case has Started...********
+[INFO ] 2024-12-01 19:21:12,825 TC001_at_AccountRegistrationTest.accountRegistration() - *****clicked on My Account Link******
+[INFO ] 2024-12-01 19:21:12,884 TC001_at_AccountRegistrationTest.accountRegistration() - *****entering random email and pwd******
+[INFO ] 2024-12-01 19:21:18,663 TC001_at_AccountRegistrationTest.accountRegistration() - *****validating with hello msg....******
+[INFO ] 2024-12-01 19:21:18,837 TC001_at_AccountRegistrationTest.accountRegistration() - *****validation succesful....******
+[INFO ] 2024-12-01 19:21:18,837 TC001_at_AccountRegistrationTest.accountRegistration() - class atTestCases.TC001_at_AccountRegistrationTest******Test case execution Finished...******
+[INFO ] 2024-12-01 19:25:20,201 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-01 19:25:34,811 TC001_at_AccountRegistrationTest.accountRegistration() - ******************************
+[INFO ] 2024-12-01 19:25:34,811 TC001_at_AccountRegistrationTest.accountRegistration() - class atTestCases.TC001_at_AccountRegistrationTest*****test case has Started...********
+[INFO ] 2024-12-01 19:25:35,238 TC001_at_AccountRegistrationTest.accountRegistration() - *****clicked on My Account Link******
+[INFO ] 2024-12-01 19:25:35,243 TC001_at_AccountRegistrationTest.accountRegistration() - *****entering random email and pwd******
+[INFO ] 2024-12-01 19:25:41,606 TC001_at_AccountRegistrationTest.accountRegistration() - *****validating with hello msg....******
+[INFO ] 2024-12-01 19:25:41,671 TC001_at_AccountRegistrationTest.accountRegistration() - *****validation succesful....******
+[INFO ] 2024-12-01 19:25:41,671 TC001_at_AccountRegistrationTest.accountRegistration() - class atTestCases.TC001_at_AccountRegistrationTest******Test case execution Finished...******
+[INFO ] 2024-12-02 10:33:29,952 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 10:33:50,685 TC001_at_AccountRegistrationTest.accountRegistration() - ******************************
+[INFO ] 2024-12-02 10:33:50,686 TC001_at_AccountRegistrationTest.accountRegistration() - class atTestCases.TC001_at_AccountRegistrationTest*****test case has Started...********
+[INFO ] 2024-12-02 10:33:53,859 TC001_at_AccountRegistrationTest.accountRegistration() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 10:33:53,863 TC001_at_AccountRegistrationTest.accountRegistration() - *****entering random email and pwd******
+[INFO ] 2024-12-02 10:33:57,472 TC001_at_AccountRegistrationTest.accountRegistration() - *****validating with hello msg....******
+[INFO ] 2024-12-02 10:33:57,659 TC001_at_AccountRegistrationTest.accountRegistration() - *****validation succesful....******
+[INFO ] 2024-12-02 10:33:57,660 TC001_at_AccountRegistrationTest.accountRegistration() - class atTestCases.TC001_at_AccountRegistrationTest******Test case execution Finished...******
+[INFO ] 2024-12-02 11:31:36,934 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-02 11:31:36,945 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO ] 2024-12-02 11:31:36,950 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-02 11:31:36,951 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-02 11:31:36,952 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-02 11:31:36,953 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-02 11:31:36,956 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-02 11:31:36,957 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-02 11:31:36,966 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+[INFO ] 2024-12-02 11:31:36,988 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+[INFO ] 2024-12-02 11:31:36,991 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-02 11:31:36,992 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-12-02 11:31:36,994 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-02 11:31:36,994 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,002 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,003 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,010 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,010 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,012 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,016 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,025 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,026 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,026 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,026 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,028 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,029 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-12-02 11:31:37,032 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,032 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,032 Utils.info() - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,032 Utils.info() - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-12-02 11:31:37,062 Utils.info() - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse--1712743358\testng-customsuite.xml
+
+[INFO ] 2024-12-02 11:31:37,113 Utils.info() - [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms.
+[INFO ] 2024-12-02 11:31:37,698 Utils.info() - [TestNG] Time taken by org.testng.reporters.jq.Main@1bdf8190: 205 ms
+[INFO ] 2024-12-02 11:31:37,727 Utils.info() - [TestNG] Time taken by org.testng.reporters.FailedReporter@7cbee484: 29 ms
+[INFO ] 2024-12-02 11:31:37,749 Utils.info() - [TestNG] Time taken by org.testng.reporters.XMLReporter@7de0c6ae: 21 ms
+[INFO ] 2024-12-02 11:31:37,768 Utils.info() - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@47289387: 18 ms
+[INFO ] 2024-12-02 11:31:37,797 Utils.info() - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@37eeec90: 28 ms
+[INFO ] 2024-12-02 11:31:37,799 Utils.info() - [TestNG] Time taken by org.testng.internal.ExitCodeListener@32fe9d0a: 1 ms
+[INFO ] 2024-12-02 11:33:09,836 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 11:33:22,298 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 11:33:22,299 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 11:33:24,652 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 11:33:24,664 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 11:33:37,454 TC002_at_AccountLoginTest.accountLoginVerification() - ******login failed...********
+[INFO ] 2024-12-02 11:48:02,659 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 11:48:15,939 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 11:48:15,940 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 11:48:18,100 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 11:48:18,111 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 11:49:50,819 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 11:50:03,951 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 11:50:03,951 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 11:50:07,232 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 11:50:07,241 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 12:05:49,369 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 12:06:04,661 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 12:06:04,662 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 12:06:07,096 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 12:06:07,100 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 12:06:40,110 TC002_at_AccountLoginTest.accountLoginVerification() - ******login failed...********
+[INFO ] 2024-12-02 12:17:04,538 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 12:17:20,707 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 12:17:20,708 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 12:17:23,844 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 12:17:23,857 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 12:17:58,989 TC002_at_AccountLoginTest.accountLoginVerification() - ******login failed: Error: The password you entered for the username nmodi@gmail.com is incorrect. Lost your password?********
+[INFO ] 2024-12-02 12:17:58,990 TC002_at_AccountLoginTest.accountLoginVerification() - ******Login Test completed******
+[INFO ] 2024-12-02 19:29:24,803 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 19:29:43,974 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 19:29:43,974 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 19:29:46,171 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 19:29:46,178 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 19:30:19,220 TC002_at_AccountLoginTest.accountLoginVerification() - ******login failed: Error: The password you entered for the username nmodi@gmail.com is incorrect. Lost your password?********
+[INFO ] 2024-12-02 19:30:19,220 TC002_at_AccountLoginTest.accountLoginVerification() - ******Login Test completed******
+[INFO ] 2024-12-02 19:31:07,668 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 19:31:20,520 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 19:31:20,521 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 19:31:22,826 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 19:31:22,843 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 19:31:56,308 TC002_at_AccountLoginTest.accountLoginVerification() - ******login failed: Error: The password you entered for the username nmodi@gmail.com is incorrect. Lost your password?********
+[INFO ] 2024-12-02 19:31:56,308 TC002_at_AccountLoginTest.accountLoginVerification() - ******Login Test completed******
+[INFO ] 2024-12-02 19:37:01,086 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 19:37:13,426 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 19:37:13,426 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 19:37:17,942 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 19:37:17,953 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 19:37:41,459 TC002_at_AccountLoginTest.accountLoginVerification() - ******login failed: Login error occurred. Please try again.********
+[INFO ] 2024-12-02 19:37:41,460 TC002_at_AccountLoginTest.accountLoginVerification() - ******Login Test completed******
+[INFO ] 2024-12-02 19:39:23,294 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 19:39:36,121 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 19:39:36,122 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 19:39:38,252 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 19:39:38,265 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 19:39:41,658 TC002_at_AccountLoginTest.accountLoginVerification() - ******login successful*******
+[INFO ] 2024-12-02 19:39:41,662 TC002_at_AccountLoginTest.accountLoginVerification() - ******Login Test completed******
+[INFO ] 2024-12-02 19:41:29,389 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 19:41:42,076 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 19:41:42,079 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 19:41:44,568 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 19:41:44,572 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 19:42:09,446 TC002_at_AccountLoginTest.accountLoginVerification() - ******login failed: Login error occurred. Please try again.********
+[INFO ] 2024-12-02 19:42:09,447 TC002_at_AccountLoginTest.accountLoginVerification() - ******Login Test completed******
+[INFO ] 2024-12-02 19:49:45,420 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 19:49:57,967 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 19:49:57,969 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 19:50:00,111 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 19:50:00,124 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 19:50:23,257 TC002_at_AccountLoginTest.accountLoginVerification() - ******login failed: Login error occurred. Please try again.********
+[INFO ] 2024-12-02 19:50:23,257 TC002_at_AccountLoginTest.accountLoginVerification() - ******Login Test completed******
+[INFO ] 2024-12-02 19:54:03,708 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 19:54:17,598 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 19:54:17,599 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 19:54:20,674 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 19:54:20,689 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 19:54:54,039 TC002_at_AccountLoginTest.accountLoginVerification() - ******login failed: Error: The password you entered for the username nmodi@gmail.com is incorrect. Lost your password?********
+[INFO ] 2024-12-02 19:54:54,040 TC002_at_AccountLoginTest.accountLoginVerification() - ******Login Test completed******
+[INFO ] 2024-12-02 20:21:42,791 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 20:21:56,407 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 20:21:56,407 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 20:21:59,378 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 20:21:59,385 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 20:22:32,059 TC002_at_AccountLoginTest.accountLoginVerification() - ******login failed: Error: The password you entered for the username nmodi@gmail.com is incorrect. Lost your password?********
+[INFO ] 2024-12-02 20:22:32,066 TC002_at_AccountLoginTest.accountLoginVerification() - ******Login Test completed******
+[INFO ] 2024-12-02 20:31:16,739 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 20:31:34,173 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 20:31:34,174 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 20:31:36,528 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 20:31:36,539 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 20:31:43,503 TC002_at_AccountLoginTest.accountLoginVerification() - ******Unexpected login state********
+[INFO ] 2024-12-02 20:32:29,004 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 20:32:41,078 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 20:32:41,078 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 20:32:43,318 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 20:32:43,321 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 20:33:33,727 TC002_at_AccountLoginTest.accountLoginVerification() - ******login failed: Unexpected error. Please try again.********
+[INFO ] 2024-12-02 20:33:33,766 TC002_at_AccountLoginTest.accountLoginVerification() - ******Login Test completed******
+[INFO ] 2024-12-02 20:33:49,691 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-02 20:34:02,304 TC002_at_AccountLoginTest.accountLoginVerification() - ******************************
+[INFO ] 2024-12-02 20:34:02,306 TC002_at_AccountLoginTest.accountLoginVerification() - class atTestCases.TC002_at_AccountLoginTest*****test case has Started...********
+[INFO ] 2024-12-02 20:34:04,593 TC002_at_AccountLoginTest.accountLoginVerification() - *****clicked on My Account Link******
+[INFO ] 2024-12-02 20:34:04,597 TC002_at_AccountLoginTest.accountLoginVerification() - *******entering login details********
+[INFO ] 2024-12-02 20:34:07,299 TC002_at_AccountLoginTest.accountLoginVerification() - ******login successful*******
+[INFO ] 2024-12-02 20:34:07,308 TC002_at_AccountLoginTest.accountLoginVerification() - ******Login Test completed******
+[INFO ] 2024-12-03 13:15:45,996 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-03 13:16:05,424 TC003_at_LogoutTest.logoutTest() - *****clicked on My Account Link******
+[INFO ] 2024-12-03 13:16:05,434 TC003_at_LogoutTest.logoutTest() - *******entering login details********
+[INFO ] 2024-12-03 13:16:08,990 TC003_at_LogoutTest.logoutTest() - ******login successful*******
+[INFO ] 2024-12-03 13:16:11,399 TC003_at_LogoutTest.logoutTest() - ******Login Test completed******
+[INFO ] 2024-12-03 13:19:19,320 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-03 13:19:32,904 TC003_at_LogoutTest.logoutTest() - *****clicked on My Account Link******
+[INFO ] 2024-12-03 13:19:32,917 TC003_at_LogoutTest.logoutTest() - *******entering login details********
+[INFO ] 2024-12-03 13:19:35,643 TC003_at_LogoutTest.logoutTest() - ******login successful*******
+[INFO ] 2024-12-03 13:19:37,703 TC003_at_LogoutTest.logoutTest() - *******logout successfull...*********
+[INFO ] 2024-12-03 13:19:37,706 TC003_at_LogoutTest.logoutTest() - ******Login Test completed******
+[INFO ] 2024-12-03 18:20:57,171 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-03 18:21:13,788 TC004_at_Filter_PriceSliderTest.priceSliderTest() - ******************************
+[INFO ] 2024-12-03 18:21:13,789 TC004_at_Filter_PriceSliderTest.priceSliderTest() - class atTestCases.TC004_at_Filter_PriceSliderTest*****test case has Started...********
+[INFO ] 2024-12-03 18:21:13,955 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-03 18:21:19,412 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-03 18:21:19,697 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-03 18:21:24,344 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******test failed**********
+[INFO ] 2024-12-03 18:26:24,236 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-03 18:26:38,362 TC004_at_Filter_PriceSliderTest.priceSliderTest() - ******************************
+[INFO ] 2024-12-03 18:26:38,363 TC004_at_Filter_PriceSliderTest.priceSliderTest() - class atTestCases.TC004_at_Filter_PriceSliderTest*****test case has Started...********
+[INFO ] 2024-12-03 18:26:38,449 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-03 18:26:42,477 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-03 18:26:42,943 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-03 18:26:48,981 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******test failed**********
+[INFO ] 2024-12-03 18:35:52,055 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-03 18:36:05,348 TC004_at_Filter_PriceSliderTest.priceSliderTest() - ******************************
+[INFO ] 2024-12-03 18:36:05,349 TC004_at_Filter_PriceSliderTest.priceSliderTest() - class atTestCases.TC004_at_Filter_PriceSliderTest*****test case has Started...********
+[INFO ] 2024-12-03 18:36:05,393 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-03 18:36:09,460 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-03 18:36:09,566 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-03 18:36:16,622 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******test failed**********
+[INFO ] 2024-12-03 18:43:10,728 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-03 18:43:23,873 TC004_at_Filter_PriceSliderTest.priceSliderTest() - ******************************
+[INFO ] 2024-12-03 18:43:23,874 TC004_at_Filter_PriceSliderTest.priceSliderTest() - class atTestCases.TC004_at_Filter_PriceSliderTest*****test case has Started...********
+[INFO ] 2024-12-03 18:43:23,928 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-03 18:43:27,123 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-03 18:43:27,219 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-03 18:43:30,990 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******test failed**********
+[INFO ] 2024-12-03 18:44:53,776 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-03 18:45:04,740 TC004_at_Filter_PriceSliderTest.priceSliderTest() - ******************************
+[INFO ] 2024-12-03 18:45:04,741 TC004_at_Filter_PriceSliderTest.priceSliderTest() - class atTestCases.TC004_at_Filter_PriceSliderTest*****test case has Started...********
+[INFO ] 2024-12-03 18:45:04,784 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-03 18:45:08,426 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-03 18:45:08,544 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-03 18:45:11,233 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******test failed**********
+[INFO ] 2024-12-03 18:46:11,347 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-03 18:46:22,149 TC004_at_Filter_PriceSliderTest.priceSliderTest() - ******************************
+[INFO ] 2024-12-03 18:46:22,150 TC004_at_Filter_PriceSliderTest.priceSliderTest() - class atTestCases.TC004_at_Filter_PriceSliderTest*****test case has Started...********
+[INFO ] 2024-12-03 18:46:22,198 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-03 18:46:25,291 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-03 18:46:25,382 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-03 18:46:29,093 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******test failed**********
+[INFO ] 2024-12-03 19:02:14,439 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-03 19:02:27,343 TC004_at_Filter_PriceSliderTest.priceSliderTest() - ******************************
+[INFO ] 2024-12-03 19:02:27,343 TC004_at_Filter_PriceSliderTest.priceSliderTest() - class atTestCases.TC004_at_Filter_PriceSliderTest*****test case has Started...********
+[INFO ] 2024-12-03 19:02:27,376 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-03 19:02:30,440 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-03 19:02:30,510 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-03 19:02:33,449 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******user values matched with slider...**********
+[INFO ] 2024-12-03 19:02:33,449 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******test passed********
+[INFO ] 2024-12-03 19:02:33,453 TC004_at_Filter_PriceSliderTest.priceSliderTest() - ******Login Test completed******
+[INFO ] 2024-12-04 10:32:50,545 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 13:15:24,491 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 13:18:49,747 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 13:20:38,906 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 13:20:54,108 TC004_at_Filter_PriceSliderTest.priceSliderTest() - ******************************
+[INFO ] 2024-12-04 13:20:54,109 TC004_at_Filter_PriceSliderTest.priceSliderTest() - class atTestCases.TC004_at_Filter_PriceSliderTest*****test case has Started...********
+[INFO ] 2024-12-04 13:20:54,334 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 13:20:57,664 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 13:20:57,972 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 13:21:02,307 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******user values matched with slider...**********
+[INFO ] 2024-12-04 13:21:02,308 TC004_at_Filter_PriceSliderTest.priceSliderTest() - *******test passed********
+[INFO ] 2024-12-04 13:21:02,315 TC004_at_Filter_PriceSliderTest.priceSliderTest() - ******Login Test completed******
+[INFO ] 2024-12-04 13:22:37,582 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 13:22:50,947 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 13:22:50,992 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 13:22:55,059 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 13:22:55,280 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 13:23:00,381 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values matched with slider...**********
+[INFO ] 2024-12-04 13:23:00,382 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test passed********
+[INFO ] 2024-12-04 13:26:29,210 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 13:26:43,360 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 13:26:43,404 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 13:26:47,039 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 13:26:47,146 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 13:26:49,204 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values matched with slider...**********
+[INFO ] 2024-12-04 13:26:49,205 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test passed********
+[INFO ] 2024-12-04 13:29:53,210 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 13:30:06,227 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 13:30:06,274 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 13:30:09,552 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 13:30:09,860 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 13:30:15,353 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values matched with slider...**********
+[INFO ] 2024-12-04 13:30:15,354 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test passed********
+[INFO ] 2024-12-04 13:31:41,123 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 13:31:54,338 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 13:31:54,385 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 13:31:58,114 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 13:31:58,209 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 13:32:03,645 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values matched with slider...**********
+[INFO ] 2024-12-04 13:32:03,646 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test passed********
+[INFO ] 2024-12-04 13:59:57,940 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 14:00:09,699 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 14:00:09,740 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 14:00:12,418 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 14:00:12,557 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 14:00:15,975 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values matched with slider...**********
+[INFO ] 2024-12-04 14:00:15,976 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test passed********
+[INFO ] 2024-12-04 14:00:57,613 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 14:01:09,079 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 14:01:09,139 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 14:01:12,099 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 14:01:12,324 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 14:01:16,403 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values matched with slider...**********
+[INFO ] 2024-12-04 14:01:16,404 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test passed********
+[INFO ] 2024-12-04 14:01:56,802 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 14:02:09,171 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 14:02:09,209 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 14:02:11,692 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 14:02:11,758 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 14:02:15,455 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values matched with slider...**********
+[INFO ] 2024-12-04 14:02:15,455 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test passed********
+[INFO ] 2024-12-04 14:22:13,835 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 14:22:27,240 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 14:22:27,268 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 14:22:31,337 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 14:22:31,559 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 14:22:35,914 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values matched with slider...**********
+[INFO ] 2024-12-04 14:22:35,915 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test passed********
+[INFO ] 2024-12-04 14:38:30,236 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[ERROR] 2024-12-04 14:38:42,802 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - Exception in login test
+13[INFO ] 2024-12-04 14:40:35,244 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 14:40:46,557 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 14:40:46,590 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 14:40:49,767 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 14:40:49,844 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 14:40:55,443 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values not matched with slider...**********
+[INFO ] 2024-12-04 14:40:55,444 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test failed**********
+[INFO ] 2024-12-04 14:41:59,699 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 14:42:11,678 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 14:42:11,709 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 14:42:15,039 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 14:42:15,155 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 14:42:18,490 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values not matched with slider...**********
+[INFO ] 2024-12-04 14:42:18,491 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test failed**********
+[INFO ] 2024-12-04 14:44:30,445 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 14:44:42,833 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 14:44:42,901 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 14:44:45,755 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 14:44:45,843 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 14:44:49,037 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values not matched with slider...**********
+[INFO ] 2024-12-04 14:44:49,037 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test failed**********
+[INFO ] 2024-12-04 14:51:10,009 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 14:51:23,008 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 14:51:23,060 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 14:51:26,125 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 14:51:26,199 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 14:51:30,259 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values not matched with slider...**********
+[INFO ] 2024-12-04 14:51:30,259 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test failed**********
+[INFO ] 2024-12-04 14:53:58,349 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 14:54:10,599 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 14:54:10,632 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 14:54:13,798 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 14:54:13,919 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 14:54:17,735 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values not matched with slider...**********
+[INFO ] 2024-12-04 14:54:17,736 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test failed**********
+[INFO ] 2024-12-04 14:55:15,181 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 14:55:26,543 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 14:55:26,572 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 14:55:30,457 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 14:55:30,529 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 14:55:34,885 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values not matched with slider...**********
+[INFO ] 2024-12-04 14:55:34,886 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test failed**********
+[INFO ] 2024-12-04 14:56:09,571 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 14:56:22,151 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 14:56:22,198 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 14:56:28,131 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 14:56:28,209 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 14:56:32,136 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values matched with slider...**********
+[INFO ] 2024-12-04 14:56:32,136 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test passed********
+[INFO ] 2024-12-04 14:56:35,378 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********products are within range...**********
+[INFO ] 2024-12-04 14:56:35,379 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test passed...!*********
+[INFO ] 2024-12-04 15:07:51,402 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 15:08:04,417 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 15:08:04,453 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 15:08:07,783 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 15:08:07,895 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 15:08:15,013 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values not matched with slider...**********
+[INFO ] 2024-12-04 15:08:15,014 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test failed**********
+[INFO ] 2024-12-04 15:09:33,822 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 15:09:49,058 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 15:09:49,101 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 15:09:51,636 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
+[INFO ] 2024-12-04 15:09:51,782 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop page validation successful...**********
+[INFO ] 2024-12-04 15:09:55,779 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******user values not matched with slider...**********
+[INFO ] 2024-12-04 15:09:55,779 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******test failed**********
+[INFO ] 2024-12-04 15:10:36,916 Utils.info() - [TestNG] Running:
+  D:\MyJava_WS\AutomationProject2\master.xml
+
+[INFO ] 2024-12-04 15:10:50,140 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *********Executing testCase4...**************
+[INFO ] 2024-12-04 15:10:50,175 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******homepage opened...**********
+[INFO ] 2024-12-04 15:10:52,877 TC005_at_SliderFilterProductPriceMatchTest.productFilteration_UsingSliderTest() - *******shop link clicked...**********
